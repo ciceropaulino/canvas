@@ -1,3 +1,7 @@
+_Nota sobre o repositório: Este repositório é uma cópia de um repositório fornecido pelo professor ministrante da matéria
+como base para o desenvolvimento do canvas. O repositório base pode ser acessado [aqui](https://github.com/selan-ufrn/Projeto_Canvas)._
+
+
 # Introdução
 
 Esse é um mini-projeto de implementação que faz parte do *Projeto Jogo da Vida* da 2a Unidade de LP1.
